@@ -42,17 +42,165 @@ This course is graded pass/fail. The grading will be based on regular participat
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | &nbsp; |
-| 2 | Host Sensors of Viral Infection-I | &nbsp; |
-| 3 | Host Sensors of Viral Infection-II: The Road to Interferon (IFN) Production Runs through the Mitochondria | &nbsp; |
-| 4 | Secreted IFN – In the Extracellular Space, No One Can Hear You Scream | &nbsp; |
-| 5 | Vaccines: We Win, Finally. Not So Fast | &nbsp; |
-| 6 | Trip to Sanofi/Pasteur | Field Trip to [Sanofi/Pasteur](http://www.sanofipasteur.us/) |
-| 7 | A New Player in the Puzzle of Filovirus Entry into Host Cells | Written Assignment Due |
-| 8 | IFN Signaling: United STATs and the Rule of V | &nbsp; |
-| 9 | Mechanisms of Human Cytomegalovirus Infection and Restriction | &nbsp; |
-| 10 | HIV Restriction Factors and Mechanism of Evasion | &nbsp; |
-| 11 | Interferon-Induced Transmembrane (IFITM) Proteins as Restriction Factors for Influenza Virus | &nbsp; |
-| 12 | End-Term Final Assignment | End of Term Final Assignment
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Host Sensors of Viral Infection-I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Host Sensors of Viral Infection-II: The Road to Interferon (IFN) Production Runs through the Mitochondria
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Secreted IFN – In the Extracellular Space, No One Can Hear You Scream
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Vaccines: We Win, Finally. Not So Fast
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Trip to Sanofi/Pasteur
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to [Sanofi/Pasteur](http://www.sanofipasteur.us/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+A New Player in the Puzzle of Filovirus Entry into Host Cells
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+IFN Signaling: United STATs and the Rule of V
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms of Human Cytomegalovirus Infection and Restriction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+HIV Restriction Factors and Mechanism of Evasion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Interferon-Induced Transmembrane (IFITM) Proteins as Restriction Factors for Influenza Virus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+End-Term Final Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+End of Term Final Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

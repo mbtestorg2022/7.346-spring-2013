@@ -45,10 +45,10 @@ Curriculum Information
 
 ### Prerequisites (Recommended)
 
-*   [7.03 _Genetics_](/courses/7-03-genetics-fall-2004/)
+*   [7.03 _Genetics_](/courses/7-03-genetics-fall-2004)
 *   7.05 _General Biochemistry_
-*   [7.06 _Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
-*   [7.28 _Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+*   [7.06 _Cell Biology_](/courses/7-06-cell-biology-spring-2007)
+*   [7.28 _Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 ### Requirements Satisfied
 
